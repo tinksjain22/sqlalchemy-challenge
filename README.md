@@ -1,4 +1,3 @@
-# sqlalchemy-challenge
 # SQLAlchemy Challenge
 
 ## Table of Contents
